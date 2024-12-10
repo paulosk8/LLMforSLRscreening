@@ -1,4 +1,4 @@
-(c) Marin-Garcia, Juan A. (2024) (ver licencia LICENSE)
+(c) Marin-Garcia, Juan A. (2024) (ver licencia [LICENSE](https://github.com/jamg-upv/LLMforSLRscreening/blob/main/LICENSE))
 Documentación utilizada en el taller de ACEDE-ECN-ACEDEDOT "Del mito a la realidad: Colaboración persona-IA en revisiones sistemáticas" 11 Diciembre 2024
 
 # How to cite:
