@@ -1,2 +1,10 @@
+To download files from GitHub, there are two primary methods:
 
-![image](https://github.com/user-attachments/assets/d42be290-180c-4f5a-ae82-d05428b27720)
+Download the entire repository as a ZIP file from the repository's main page.
+![image](https://github.com/user-attachments/assets/a4b8bb0a-720f-429d-b0e1-5eff0bda391c)
+
+Download individual files using the file viewer.
+
+There is no direct option to download a single folder (though there is a workaround involving modifying the access URL).
+
+
