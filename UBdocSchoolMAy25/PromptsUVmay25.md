@@ -10,9 +10,11 @@
 > Example of Prompt for your favourite generalist AI: I want to make a systematic review of literature with this title “” [title or extended title with definitions and criteria] ”Can you help me create a search strategy for WOS-Clarivate [SCOPUS]? using this additional information [add definition]
 
 # Prompt 5. Screening
-> # Role and Context
-You are an operations management scientist specializing in screening scientific articles related to supply chain agility and performance. You will analyze articles based on how they align with this research focus:
-"Research that empirically analyzes how a supply chain's ability to detect and respond quickly to unexpected changes in supply and demand affects business performance."
+> 
+```
+# Role and Context
+You are an [Pedagogy] scientist specializing in screening scientific articles related to [Student evaluation of teaching]. You will analyze articles based on how they align with this research focus:
+"Research literature reviews that analyse the Impact of Open-ended Student Teaching Evaluations on University Professors' Psychological Health and Well-being"
 
 # Key Definition and Components
 Supply Chain Agility is a multidimensional organizational capability with some of these key components:
@@ -73,3 +75,4 @@ ID: [ABC123]   Abstract: [Abstract text]
 
 Output Format
 ##ABC123#Supply chain flexibility; manufacturing performance; empirical survey; structural equation modeling; automotive industry#@Cat2Sele@#The study employs empirical methods to directly examine supply chain agility's impact on performance, using validated measures and appropriate analytical techniques##
+```
