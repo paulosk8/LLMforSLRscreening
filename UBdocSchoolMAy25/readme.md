@@ -13,9 +13,7 @@ There is no direct option to download a single folder (though there is a workaro
   To get the following small size folder from a huge  repo: [https://github.com/jamg-upv/LLMforSLRscreening/edit/main/UBdocSchoolMAy25](https://github.com/jamg-upv/LLMforSLRscreening/edit/main/UBdocSchoolMAy25)
 
   Just change only the github.com part of the URL to githubbox.com 
-
-  [https://githubbox.com/jamg-upv/LLMforSLRscreening/edit/main/UBdocSchoolMAy25](https://githubbox.com/jamg-upv/LLMforSLRscreening/blob/main/UBdocSchoolMAy25/readme.md)
-
-  and then
+1. [https://githubbox.com/jamg-upv/LLMforSLRscreening/blob/main/UBdocSchoolMAy25/readme.md](https://githubbox.com/jamg-upv/LLMforSLRscreening/blob/main/UBdocSchoolMAy25/readme.md)
+1.  and then
   ![image](https://github.com/user-attachments/assets/53d82ba6-d2e5-4edb-bae1-adf8fa499ed1)
 
