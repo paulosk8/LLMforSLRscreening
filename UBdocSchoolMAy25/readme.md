@@ -10,11 +10,12 @@ Download individual files using the file viewer (click on the file name to previ
 
 There is no direct option to download a single folder (though there is a workaround involving modifying the access URL).
 
-To get the following small size folder from a huge  repo: [https://github.com/jamg-upv/LLMforSLRscreening/edit/main/UBdocSchoolMAy25](https://github.com/jamg-upv/LLMforSLRscreening/edit/main/UBdocSchoolMAy25)
+  To get the following small size folder from a huge  repo: [https://github.com/jamg-upv/LLMforSLRscreening/edit/main/UBdocSchoolMAy25](https://github.com/jamg-upv/LLMforSLRscreening/edit/main/UBdocSchoolMAy25)
 
-Just change only the github.com part of the URL to githubbox.com 
+  Just change only the github.com part of the URL to githubbox.com 
 
-[https://githubbox.com/jamg-upv/LLMforSLRscreening/edit/main/UBdocSchoolMAy25](https://githubbox.com/jamg-upv/LLMforSLRscreening/edit/main/UBdocSchoolMAy25)
-and then
-![image](https://github.com/user-attachments/assets/53d82ba6-d2e5-4edb-bae1-adf8fa499ed1)
+  [https://githubbox.com/jamg-upv/LLMforSLRscreening/edit/main/UBdocSchoolMAy25](https://githubbox.com/jamg-upv/LLMforSLRscreening/blob/main/UBdocSchoolMAy25/readme.md)
+
+  and then
+  ![image](https://github.com/user-attachments/assets/53d82ba6-d2e5-4edb-bae1-adf8fa499ed1)
 
