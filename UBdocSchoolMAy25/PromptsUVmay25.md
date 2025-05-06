@@ -3,7 +3,8 @@
 
 > "Based on the information in the attached table, propose a title for a systematic literature review that follows the recommendations of Cochrane Reviews (using the PICO - SPIDER-ECLIPSE framework)"
 
-# Prompt2. Term DEfinition
+# Prompt 2. Term Definition
 >"What is ‘Student evaluation of teaching', its definition, synonyms, and key seminal works and reviews on the topic"
 
-
+# Prompt 3. Search filter
+> I want to make a systematic review of literature with this title “” [title or extended title with definitions and criteria] ”Can you help me create a search strategy for WOS-Clarivate [SCOPUS]?
